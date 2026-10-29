@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Shamayil Khoj 👋
 
-<!--
-**shamayilkhoj/shamayilkhoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 3rd-year Computer Science student at Umm Al-Qura University 🇸🇦
+🚀 I enjoy turning ideas into working software, from games to real-world systems.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+`Java` `C++` `OpenGL` `Requirements Analysis`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 Teamwork · 🗣️ Communication
+
+## 📂 Featured Projects
+- 🎮 **Storm Breakout**: A 2D arcade game built with C++ and OpenGL
+- 🗓️ **QueueLite**: An appointment and queue management system
+
+## 🏅 Certifications
+- Java 103 – Advanced Level (Satr Platform)
+
+## 📫 Let's Connect
+- 💼 LinkedIn: [shamayil-khoj](https://www.linkedin.com/in/shamayil-khoj)
+- 📧 Email: shamayilkhoj@gmail.com
+
+⭐ Feel free to explore my repositories!
